@@ -164,6 +164,11 @@ To enhance analytical capabilities, several new features were created:
 
 ---
 
+### 📊 11. Dashboard
+![Image](https://github.com/user-attachments/assets/e9c98033-c958-4597-a7c0-5aff511ddcae)
+
+---
+
 ## IV. Overall Conclusion
 
 1. Region
