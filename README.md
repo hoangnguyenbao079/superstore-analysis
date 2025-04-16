@@ -162,9 +162,10 @@ To enhance analytical capabilities, several new features were created:
 ![Image](https://github.com/user-attachments/assets/ede905bf-49be-46ba-a11c-6dcc77d9ebfa)
 
 **Comments:**
-- This bar chart presents sales and profit analysis by customer segment. We can see that the Consumer segment leads by a large margin, with sales significantly higher than the profit, indicating a high volume of transactions but relatively lower profit margins.
-- The Corporate segment follows with decent sales, but the profit is notably higher compared to the Consumer segment, which suggests a better profit margin on corporate sales. Finally, the Home Office segment has the smallest sales and profit figures, with sales slightly higher than profits, showing a more balanced but smaller-scale performance.
-- In summary, Consumer drives the most sales, but Corporate offers higher profitability, while Home Office shows the least performance in both sales and profit
+- This line graph illustrates the average profit based on delivery time (number of days). We observe a significant fluctuation in profit as the delivery time changes.
+- Initially, with 0 and 1 day delivery, the average profit is relatively low at around $25, but it spikes to about $40 on the 2-day delivery. After that, there is a sharp decline back to lower profit levels before gradually increasing again from 4 to 7 days of delivery.
+- The highest profit is seen at the 2-day delivery, which suggests that customers might be willing to pay more for faster delivery, but overall, longer delivery times tend to show a steady increase in profit.
+- In summary, 2-day delivery seems to offer the highest profit, but longer delivery times gradually improve the average profit as well, indicating a correlation between delivery time and profit margins.
 
 ---
 
@@ -172,10 +173,7 @@ To enhance analytical capabilities, several new features were created:
 ![Image](https://github.com/user-attachments/assets/21657c7b-e34b-41bc-8064-c940842a6c48)
 
 **Comments:**
-- This line graph illustrates the average profit based on delivery time (number of days). We observe a significant fluctuation in profit as the delivery time changes.
-- Initially, with 0 and 1 day delivery, the average profit is relatively low at around $25, but it spikes to about $40 on the 2-day delivery. After that, there is a sharp decline back to lower profit levels before gradually increasing again from 4 to 7 days of delivery.
-- The highest profit is seen at the 2-day delivery, which suggests that customers might be willing to pay more for faster delivery, but overall, longer delivery times tend to show a steady increase in profit.
-- In summary, 2-day delivery seems to offer the highest profit, but longer delivery times gradually improve the average profit as well, indicating a correlation between delivery time and profit margins
+Among the three segments, Home Office demonstrates the strongest profitability with the lowest Sales-to-Profit Ratio (7.13), indicating it generates more profit per unit of sales compared to others. Corporate follows closely (7.68), reflecting relatively efficient operations. In contrast, the Consumer segment has the highest ratio (8.66), suggesting lower profit margins possibly due to higher costs or discount-driven sales. This insight highlights Home Office as the most efficient and profitable segment, warranting greater strategic focus to drive overall business profitability.
 
 ---
 
