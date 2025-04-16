@@ -16,10 +16,20 @@ This report uses data from Global Superstore to analyze the company's sales perf
 ## II. Data Analysis Process
 ### 1. Data Loading and Exploration
 - Dataset: Sample - Superstore.csv (9,994 rows × 21 columns)
+
+![Image](https://github.com/user-attachments/assets/da419ece-1013-401a-9cd5-01c41d8fa036)
+
 - The dataset contains transactional records including order details, customer information, sales performance, and shipping data.
 - No missing values were found in the dataset, indicating it is complete and ready for analysis.
+
+![Image](https://github.com/user-attachments/assets/0c97ace2-cc95-4b78-a179-97f0f1ceab47)
+
 - Data types were reviewed and adjusted where necessary. Specifically:
-    - Order Date and Ship Date columns were converted to appropriate datetime formats for temporal analysis.
+    - Order Date and Ship Date columns were converted to appropriate datetime formats for temporal analysis.\
+- Fisrt few row of dataset
+
+![image](https://github.com/user-attachments/assets/87addf34-5cd7-4535-9194-3fadeb7a4074)
+
 
 ### 2. Data Cleaning and Feature Engineering
 To enhance analytical capabilities, several new features were created:
@@ -29,6 +39,11 @@ To enhance analytical capabilities, several new features were created:
     - Order Day of Week: Day name (e.g., Monday, Tuesday) derived from the Order Date.
     - Order YearMonth: Combined year and month in YYYY-MM format for monthly trend analysis.
     - Shipping Time: Calculated as the number of days between Ship Date and Order Date, indicating delivery duration.
+
+![image](https://github.com/user-attachments/assets/5c2b89c1-5b53-472c-a567-8f3997eda3b3)
+
+![Image](https://github.com/user-attachments/assets/5ffbad93-5e54-4189-b19c-a4222e750d2f)
+
 - Standardization:
     - Ensured consistent formatting for string fields (e.g., title-cased category names).
     - Verified and enforced numerical data types for columns such as Sales, Quantity, Discount, and Profit.
