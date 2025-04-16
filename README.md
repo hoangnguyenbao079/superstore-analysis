@@ -40,7 +40,7 @@ To enhance analytical capabilities, several new features were created:
     - Order YearMonth: Combined year and month in YYYY-MM format for monthly trend analysis.
     - Shipping Time: Calculated as the number of days between Ship Date and Order Date, indicating delivery duration.
 
-![image](https://github.com/user-attachments/assets/5c2b89c1-5b53-472c-a567-8f3997eda3b3)
+![Image](https://github.com/user-attachments/assets/0411ba8d-1119-4972-aa14-f1b949dbd933)
 
 ![Image](https://github.com/user-attachments/assets/5ffbad93-5e54-4189-b19c-a4222e750d2f)
 
